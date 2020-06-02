@@ -1,0 +1,4 @@
+If the paper is not accessible to you, you can create a "bookmarklet" in your browser. Create a bookmark with this web address: 
+javascript:void(location.href="http://proxy.lib.uiowa.edu/login?url="+location.href)
+
+When you come across a paper you cannot access, click on the bookmark. You will be redirected to a page to log in with your hawkid and password. After logging in, you will be redirected back to the page with the PDF now available to read. Occasionally, you might still not be able to see the PDF. At that point, I go to scholar.google.com and search on the title. Many times the authors have posted the PDF online to read.

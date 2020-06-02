@@ -1,0 +1,5 @@
+high-level-article: https://dl.acm.org/doi/pdf/10.1145/3331067
+eyes-free-exercise: https://dl.acm.org/doi/10.1145/2700648.2809846
+eyes-free-yoga-lab-and-deployment: https://dl.acm.org/doi/10.1145/3022729
+navigation-feedback-track: https://dl.acm.org/doi/10.1145/3234695.3236345
+virtual-showdown: https://dl.acm.org/doi/abs/10.1145/3290605.3300371
